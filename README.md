@@ -29,12 +29,17 @@ Also:
   character, never targets, never presses keys, never scans other players
   or creatures, never touches the network.
 
+## Download
+
+**[Download PandaTool.dll](https://github.com/Tom75VN/PandaTool/releases/latest/download/PandaTool.dll)**
+(latest version). Older versions and change notes:
+[Releases](https://github.com/Tom75VN/PandaTool/releases).
+
 ## Install
 
 You need the OctoWoW launcher.
 
-1. Download `PandaTool.dll` from the
-   [Releases](https://github.com/Tom75VN/PandaTool/releases) page.
+1. [Download `PandaTool.dll`](https://github.com/Tom75VN/PandaTool/releases/latest/download/PandaTool.dll).
 2. Put it in your game folder, next to `WoW.exe`.
 3. Open the OctoWoW launcher and go to **MODS**.
 4. Under **Your DLL mods**, click **Add DLL** and pick `PandaTool.dll`

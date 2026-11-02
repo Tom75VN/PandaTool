@@ -1,0 +1,26 @@
+# Build output.
+/build/
+/out/
+/bin/
+/obj/
+/Debug/
+/Release/
+/Win32/
+*.obj
+*.pdb
+*.ilk
+*.idb
+*.exp
+*.lib
+*.dll
+*.log
+*.tlog
+
+# IDE state.
+/.vs/
+*.user
+*.suo
+*.sdf
+*.opensdf
+*.VC.db
+*.VC.opendb
